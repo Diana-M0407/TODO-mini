@@ -1,6 +1,6 @@
 # TO-DO App
 
-An Androd Studio application to track TO-DO items: ACTIVE and COMPLETED using Jetpack Compose. 
+An Android Studio application to track TO-DO items: ACTIVE and COMPLETED using Jetpack Compose. 
 
 ---
 
@@ -26,16 +26,15 @@ An Androd Studio application to track TO-DO items: ACTIVE and COMPLETED using Je
 
  Prerequisites:
 
-- Android Stududio 
+- Android Studio 
 - Kotlin 
 
 ---
 
 #### Screenshots
 
-- [Upload here]
-
-
+- ![img_1.png](C:\Users\dmald\AndroidStudioProjects\TODOmini\img_1.png)
+- 
 ---
 
 ###### License
